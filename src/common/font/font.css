@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "hanyiwei";
+  src: url("./hanyiwei.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EnglishSport";
+  src: url("./English.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "TypoPRODancingScriptRegular";
+  src: url(".//TypoPRODancingScriptRegular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
